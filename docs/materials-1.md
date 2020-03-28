@@ -4,7 +4,7 @@
 
 Install one of the editors below:
 
-- VSCode (recommended for beginners) https://code.visualstudio.com/docs/setup/setup-overview
+- VSCode (recommended for beginners) https://code.visualstudio.com/download
 - Atom https://atom.io/
 - SublimeText http://www.sublimetext.com/
 - Vim https://www.vim.org/
